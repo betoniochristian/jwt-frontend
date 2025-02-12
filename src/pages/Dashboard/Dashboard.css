@@ -1,0 +1,9 @@
+.hello{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 450px;
+}
+body{
+    overflow: hidden;
+}
